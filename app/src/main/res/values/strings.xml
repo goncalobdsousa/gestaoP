@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gestaoP</string>
+    <string name="hello_world">Product</string>
+    <string name="nomeBotao">ADD</string>
+    <string name="textFieldProdName">NomeProd</string>
+    <string name="preco_produto">Price</string>
+    <string name="textFielEuro">€</string>
+</resources>
